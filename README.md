@@ -32,6 +32,3 @@ To get started with this project, clone the repository and install the necessary
 git clone https://github.com/balajkhalid/spaceship-titanic.git
 cd spaceship-titanic
 pip install -r requirements.txt
-
-
-
