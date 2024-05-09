@@ -12,13 +12,21 @@ This project is part of a Kaggle competition. Participants are tasked with predi
 
 ## Algorithms Used
 
-- Naive Bayes
-- Linear SVM
-- Decision Tree
 - Logistic Regression
-- Neural Nets
+- SVM
 - LightGBM
 - XGBoost
+
+## Performance Comparison
+
+F1 Score
+
+<img width="709" alt="Screenshot 2024-05-09 at 2 10 20 PM" src="https://github.com/balajkhalid/spaceship-titanic/assets/63593514/cea85c0e-9241-4ffa-9ccb-109082abe0e7">
+
+Accuracy
+
+<img width="708" alt="Screenshot 2024-05-09 at 2 10 47 PM" src="https://github.com/balajkhalid/spaceship-titanic/assets/63593514/1eda48b3-913b-48cf-8fc8-4c75f31db64c">
+
 
 ## Best Performer
 
